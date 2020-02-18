@@ -19,7 +19,7 @@ sections:
           with us, you will receive a **discount** for buying your recruitment
           advertising but only via TMP.
         image: /images/art-and-science.jpg
-        title: We have **saved our clients over £11 million**
+        title: We have saved our clients over £11 million
       - actions:
           - label: Learn More
             url: /features
