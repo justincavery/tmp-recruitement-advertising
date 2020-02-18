@@ -1,10 +1,14 @@
 ---
 title: Why choose TMP?
 subtitle: This is the subtitle of the page
-img_path: /images/10.jpg
+img_path: /images/191212_201957_-TMPChristmasParty_0115.jpg
 menus:
+  main:
+    title: Why TMP?
+    weight: 3
   secondary:
-    weight: 1
+    title: Why TMP?
+    weight: 3
 template: page
 ---
 The huge array of organisations that work with TMP in Highams Park enjoy our friendly, high-quality and efficient service. With every talent search handled by knowledgeable and experienced colleagues who are passionate about what they do, you will feel as if we’re part of your HR team!
