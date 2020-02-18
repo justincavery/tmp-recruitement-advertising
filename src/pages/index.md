@@ -15,9 +15,6 @@ sections:
           - label: Learn More
             url: /how-we-can-help-you
         content: >-
-          Save money on your recruitment media
-
-
           Through the frameworks and contracts that you already have in place
           with us, you will receive a **discount** for buying your recruitment
           advertising but only via TMP.
