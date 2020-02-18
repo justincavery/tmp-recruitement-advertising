@@ -13,7 +13,7 @@ sections:
     featureslist:
       - actions:
           - label: Learn More
-            url: /how-we-can-help-you
+            url: /how-we-can-help/
         content: >-
           Through the frameworks and contracts that you already have in place
           with us, you will receive a **discount** for buying your recruitment
@@ -22,7 +22,7 @@ sections:
         title: We have saved our clients over £11 million
       - actions:
           - label: Learn More
-            url: /features
+            url: /why-choose-tmp/
         content: >-
           The huge array of organisations that work with TMP in Highams Park
           enjoy our friendly, high-quality and efficient service.
@@ -30,7 +30,7 @@ sections:
         title: Why TMP?
       - actions:
           - label: Learn More
-            url: /features
+            url: '/how-we-can-help#social'
         content: >-
           Take a look through some of our case studies and see if there's
           something that we can do to help you.
