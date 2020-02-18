@@ -4,6 +4,8 @@ subtitle: >-
   Using a mix of online and traditional media, we met demanding turn around
   times and recruited 54 nurses.
 date: 2020-02-18T13:37:20.316Z
+thumb_img_path: /images/Screenshot 2020-02-18 at 13.38.04.png
+img_path: /images/Screenshot 2020-02-18 at 13.38.04.png
 template: post
 ---
 ## Scope and Scale
