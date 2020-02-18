@@ -32,10 +32,10 @@ sections:
           - label: Learn More
             url: '/how-we-can-help#social'
         content: >-
-          Take a look through some of our case studies and see if there's
-          something that we can do to help you.
+          We can keep you updated as to the latest options on the market, not
+          only with the more traditional options such as online but also social.
         image: images/feature3.png
-        title: See what we can do
+        title: Social Media? We can do that
     section_id: features
     subtitle: do you want something here?
     title: How we can help you
