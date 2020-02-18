@@ -10,8 +10,8 @@ menus:
     title: How we can help
     weight: 2
   secondary:
-    title: About Us
-    weight: 1
+    title: How we can help
+    weight: 2
 template: page
 ---
 Through the frameworks and contracts that you already have in place with us, you will receive a **discount** for buying your recruitment advertising but only via TMP.\
