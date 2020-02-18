@@ -3,7 +3,7 @@
   "palette": "purple",
   "header": {
     "title": "Azimuth",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/tmplogo ra.png",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -19,8 +19,8 @@
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": true,
     "social_title": "Community",
-    "tagline": "SaaS theme by Stackbit",
-    "logo_img": "images/logo_alt.png",
+    "tagline": "Recruitment Advertsing from TMP Worldwide",
+    "logo_img": "/images/tmplogo ra.png",
     "has_social": true,
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [
