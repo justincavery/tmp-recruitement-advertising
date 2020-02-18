@@ -27,20 +27,18 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        title: Awesome Feature of Your Services
+          The huge array of organisations that work with TMP in Highams Park
+          enjoy our friendly, high-quality and efficient service.
+        image: /images/TALENT-SOLUTIONS.jpg
+        title: Why TMP?
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Take a look through some of our case studies and see if there's
+          something that we can do to help you.
         image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: See what we can do
     section_id: features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
