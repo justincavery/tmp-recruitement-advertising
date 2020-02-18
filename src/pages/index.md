@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Learn More
-        url: /contact
+  - actions: []
     content: >-
       **At TMP, we know recruitment inside and out. We live, breathe, walk and
       talk talent solutions – and we do it exceptionally well.**
