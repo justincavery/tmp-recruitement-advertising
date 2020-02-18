@@ -2,44 +2,6 @@
 title: FAQ's
 sections:
   - bg: gray
-    pricingplans:
-      - actions:
-          - label: Order Now
-            url: /signup
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
-        price: $5/m
-        title: Basic
-      - actions:
-          - label: Order Now
-            url: /signup
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
-        highlight: true
-        price: $49/m
-        title: Professional
-      - actions:
-          - label: Order Now
-            url: /signup
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
-        price: $149/m
-        title: Enterprise
-    section_id: pricing
-    subtitle: You can have a separate pricing page or list everything on the home page.
-    title: Pricing Plans
-    type: section_pricing
-  - bg: gray
     faqitems:
       - answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
@@ -68,8 +30,11 @@ sections:
     type: section_faq
 menus:
   main:
-    title: Pricing
-    weight: 3
+    title: FAQ's
+    weight: 10
+  secondary:
+    title: FAQ's
+    weight: 10
 template: landing
 ---
 
