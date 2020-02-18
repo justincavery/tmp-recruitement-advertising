@@ -20,7 +20,7 @@ sections:
           With specialist job boards for every sector, and larger job boards
           that advertise across *all* sectors, there is a confusing array of
           choices to be made.
-        image: /images/191212_201957_-TMPChristmasParty_0115.jpg
+        image: /images/art-and-science.jpg
         title: How we can help you
       - actions:
           - label: Learn More
@@ -28,7 +28,7 @@ sections:
         content: >-
           The huge array of organisations that work with TMP in Highams Park
           enjoy our friendly, high-quality and efficient service.
-        image: /images/TALENT-SOLUTIONS.jpg
+        image: /images/191212_201957_-TMPChristmasParty_0115.jpg
         title: Why TMP?
       - actions:
           - label: Learn More
