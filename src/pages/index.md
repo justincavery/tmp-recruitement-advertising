@@ -5,7 +5,7 @@ sections:
     content: >-
       **At TMP, we know recruitment inside and out. We live, breathe, walk and
       talk talent solutions – and we do it exceptionally well.**
-    image: images/hero.png
+    image: /images/Recruitment Advertising.png
     section_id: hero
     title: Let us give you valuable hours back in your day…
     type: section_hero
