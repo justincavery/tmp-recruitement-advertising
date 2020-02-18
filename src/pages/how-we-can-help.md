@@ -3,7 +3,7 @@ title: How we can help
 subtitle: >-
   The recruitment advertising team with TMPW can help you in a number of
   different aspects of filling your roles.
-img_path: images/about.jpg
+img_path: /images/TALENT-SOLUTIONS.jpg
 menus:
   main:
     identifier: ''
