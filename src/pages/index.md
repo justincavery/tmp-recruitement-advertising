@@ -37,10 +37,8 @@ sections:
         image: images/feature3.png
         title: See what we can do
     section_id: features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Title of this section
+    subtitle: do you want something here?
+    title: How we can help you
     type: section_features
   - bg: gray
     section_id: recent-posts
