@@ -15,15 +15,14 @@ sections:
           - label: Learn More
             url: /how-we-can-help-you
         content: >-
-          Over the last 5 years, we have **saved our clients over £11 million**
-          this way!
+          Save money on your recruitment media
 
 
           Through the frameworks and contracts that you already have in place
           with us, you will receive a **discount** for buying your recruitment
           advertising but only via TMP.
         image: /images/art-and-science.jpg
-        title: Save money on your recruitment media
+        title: We have **saved our clients over £11 million**
       - actions:
           - label: Learn More
             url: /features
