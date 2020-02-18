@@ -35,8 +35,8 @@ sections:
     type: section_cta
 menus:
   main:
-    title: Features
-    weight: 2
+    title: ''
+    weight: ''
 template: landing
 ---
 
