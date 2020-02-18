@@ -15,11 +15,15 @@ sections:
           - label: Learn More
             url: /how-we-can-help-you
         content: >-
-          With specialist job boards for every sector, and larger job boards
-          that advertise across *all* sectors, there is a confusing array of
-          choices to be made.
+          Over the last 5 years, we have **saved our clients over £11 million**
+          this way!
+
+
+          Through the frameworks and contracts that you already have in place
+          with us, you will receive a **discount** for buying your recruitment
+          advertising but only via TMP.
         image: /images/art-and-science.jpg
-        title: How we can help you
+        title: Save money on your recruitment media
       - actions:
           - label: Learn More
             url: /features
