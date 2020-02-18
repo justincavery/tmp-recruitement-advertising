@@ -5,6 +5,10 @@ subtitle: >-
   different aspects of filling your roles.
 img_path: images/about.jpg
 menus:
+  main:
+    identifier: ''
+    title: How we can help
+    weight: 2
   secondary:
     title: About Us
     weight: 1
