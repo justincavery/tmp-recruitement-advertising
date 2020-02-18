@@ -5,12 +5,11 @@ sections:
       - label: Learn More
         url: /contact
     content: >-
-      **We’re passionate about helping you meet your recruitment needs. So
-      contact us, and make the most of our industry-leading knowledge and
-      connections today.**
+      **At TMP, we know recruitment inside and out. We live, breathe, walk and
+      talk talent solutions – and we do it exceptionally well.**
     image: images/hero.png
     section_id: hero
-    title: Recruitment Advertising Solutions
+    title: Let us give you valuable hours back in your day…
     type: section_hero
   - bg: gray
     featureslist:
