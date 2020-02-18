@@ -27,3 +27,11 @@ Let us help you navigate the ever-changing and complex world of recruitment medi
 With specialist job boards for every sector, and larger job boards that advertise across *all* sectors, there is a confusing array of choices to be made. Pick the wrong board, and you could see your ideal candidate slip through the net – and even end up working for a competitor. We hate to see that happen to our clients, so let us guide you through the hundreds of options.
 
 With an exceptional network of contacts spanning every conceivable sector and a cutting-edge understanding of the most effective outlets that will generate results for you, they take the guess work – and the endless hours of admin – out of your talent search.
+
+## Social Media — it couldn’t be easier
+
+<div class="embed-container">
+<video id="video" oncontextmenu="return false;" controls="" controlslist="nodownload">
+                <source src="https://ak01-video-cdn.slidely.com/promoVideos/videos/5d/94/5d94b30e861eda05471e9adc/final.mp4?dv=8" type="video/mp4">
+            </video>
+</div>
