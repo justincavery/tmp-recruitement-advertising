@@ -1,6 +1,6 @@
 ---
 title: Why choose TMP?
-subtitle: This is the subtitle of the page
+subtitle: ''
 img_path: /images/191212_201957_-TMPChristmasParty_0115.jpg
 menus:
   main:
