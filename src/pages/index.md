@@ -36,7 +36,7 @@ sections:
         content: >-
           We can keep you updated as to the latest options on the market, not
           only with the more traditional options such as online but also social.
-        image: images/feature3.png
+        image: /images/vodafone.png
         title: Social Media? We can do that
     section_id: features
     subtitle: ''
