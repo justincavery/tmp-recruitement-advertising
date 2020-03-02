@@ -1,6 +1,6 @@
 ---
 title: Why choose TMP?
-subtitle: ''
+subtitle: 'Impartial, cost effective advice.'
 img_path: /images/191212_201957_-TMPChristmasParty_0115.jpg
 menus:
   main:
