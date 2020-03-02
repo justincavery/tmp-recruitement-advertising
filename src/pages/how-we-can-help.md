@@ -1,9 +1,7 @@
 ---
-title: How we can help
-subtitle: >-
-  The recruitment advertising team with TMPW can help you in a number of
-  different aspects of filling your roles.
-img_path: /images/TALENT-SOLUTIONS.jpg
+title: Let us help you
+subtitle: We have saved our clients over £11 million
+img_path: /images/191212_201957_-TMPChristmasParty_0115.jpg
 menus:
   main:
     identifier: ''
