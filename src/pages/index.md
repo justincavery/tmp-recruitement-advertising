@@ -37,8 +37,8 @@ sections:
         image: images/feature3.png
         title: Social Media? We can do that
     section_id: features
-    subtitle: do you want something here?
-    title: How we can help you
+    subtitle: ''
+    title: ''
     type: section_features
   - bg: gray
     section_id: recent-posts
