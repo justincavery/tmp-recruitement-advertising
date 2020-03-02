@@ -26,7 +26,7 @@ With specialist job boards for every sector, and larger job boards that advertis
 
 With an exceptional network of contacts spanning every conceivable sector and a cutting-edge understanding of the most effective outlets that will generate results for you, they take the guess work – and the endless hours of admin – out of your talent search.
 
-## Social Media — it couldn’t be easier {#social}
+## Social Media — it couldn’t be easier [#social]
 
 <div class="embed-container">
 <video id="video" oncontextmenu="return false;" controls="" controlslist="nodownload">
