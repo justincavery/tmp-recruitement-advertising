@@ -33,3 +33,7 @@ With an exceptional network of contacts spanning every conceivable sector and a 
                 <source src="https://ak01-video-cdn.slidely.com/promoVideos/videos/5d/94/5d94b30e861eda05471e9adc/final.mp4?dv=8" type="video/mp4">
             </video>
 </div>
+
+Snap content and social network amplification packages. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
