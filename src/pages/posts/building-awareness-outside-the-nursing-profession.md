@@ -20,9 +20,7 @@ The Royal College of Nursing isn’t a college and it doesn’t often recruit nu
 * GENERATED INTEREST IN EMPLOYER
 * FOUND NEW CANDIDATE AUDIENCES
 
-
-
-Scope and Scale
+## Scope and Scale
 
 Royal College of Nursing (RCN) is a membership organisation and trade union with over 432,000 members in the United Kingdom. Founded in 1916, it has a proud history of transforming the role of women in medicine, supporting war efforts, embracing technological leaps and fighting for changes to the NHS.
 
@@ -40,8 +38,7 @@ Our solution was a rallying cry that fused heritage with future. Using detailed 
 
 ## Results
 
-People sat up and took notice. The film – and the marketing drive that signposted it – opened the eyes and minds of many thousands of new professionals to the RCN. An organisation many
-either weren’t aware of or didn’t know recruited
+People sat up and took notice. The film – and the marketing drive that signposted it – opened the eyes and minds of many thousands of new professionals to the RCN. An organisation many either weren’t aware of or didn’t know recruited
 people like them.
 
 * **370,893** – YouTube views (235,923 watched the whole 90 seconds). RCN videos normally have 500-1,000 views.
