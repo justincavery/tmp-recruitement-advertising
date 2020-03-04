@@ -1,5 +1,5 @@
 ---
-title: BUILDING AWARENESS OUTSIDE THE NURSING PROFESSION
+title: Building Awareness Outside the Nursing Profession
 date: 2020-03-04T17:21:13.706Z
 thumb_img_path: /images/the-rebels.jpg
 img_path: /images/the-rebels.jpg
