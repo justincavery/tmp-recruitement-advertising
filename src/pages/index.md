@@ -20,7 +20,7 @@ sections:
           Through the frameworks and contracts that you already have in place
           with us, you will receive a **discount** for buying your recruitment
           advertising but only via TMP.
-        image: /images/art-and-science.jpg
+        image: /images/saving-money.png
         title: We have saved our clients over      £11 million
       - actions:
           - label: Learn More
