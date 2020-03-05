@@ -1,5 +1,5 @@
 ---
-title: The Government of Jersey Case Study RECRUITMENT EFFECTIVENESS
+title: The Government of Jersey Case Study
 date: 2020-03-05T15:50:31.552Z
 template: post
 ---
