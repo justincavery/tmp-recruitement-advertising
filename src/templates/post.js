@@ -28,7 +28,7 @@ export default class Post extends React.Component {
                   <div className="post-content">
                     {htmlToReact(_.get(this.props, 'pageContext.html'))}
 
-<a class="btn button" href="/blog/">Read another Case Study.</a>
+<a class="btn button" href="/blog/">Read another Case Study &gt; </a>
                   </div>
                   <footer className="post-meta">
                     <time className="published"
