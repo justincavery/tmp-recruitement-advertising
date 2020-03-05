@@ -3,6 +3,9 @@ title: The Government of Jersey Case Study
 date: 2020-03-05T15:50:31.552Z
 thumb_img_path: /images/jersey-results.png
 img_path: /images/jersey-results.png
+excerpt: >-
+  The campaign captured wide-ranging attention. There was lots of local press
+  coverage and the Minister appeared on television to discuss the campaign.
 template: post
 ---
 ## The Challenge:
