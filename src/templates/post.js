@@ -5,6 +5,11 @@ import moment from 'moment-strftime';
 import {Layout} from '../components/index';
 import {safePrefix, htmlToReact} from '../utils';
 
+
+import {htmlToReact, getPages, Link, safePrefix} from '../utils';
+
+
+
 export default class Post extends React.Component {
     render() {
         return (
@@ -39,11 +44,6 @@ export default class Post extends React.Component {
         );
     }
 }
-
-
-<!-- Add in the list of things -->
-
-import {htmlToReact, getPages, Link, safePrefix} from '../utils';
 
 export default class SectionPosts extends React.Component {
     render() {
