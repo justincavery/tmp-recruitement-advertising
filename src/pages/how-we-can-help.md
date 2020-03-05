@@ -27,6 +27,7 @@ With specialist job boards for every sector, and larger job boards that advertis
 With an exceptional network of contacts spanning every conceivable sector and a cutting-edge understanding of the most effective outlets that will generate results for you, they take the guess work – and the endless hours of admin – out of your talent search.
 
 <span id="social"></span>
+
 ## Social Media — it couldn’t be easier
 
 <div class="embed-container">
@@ -35,6 +36,10 @@ With an exceptional network of contacts spanning every conceivable sector and a 
             </video>
 </div>
 
-### SNAP (social network amplification package) 
+### SNAP (social network amplification package)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+SNAP allows you to raise awareness of your opportunity to a passive audience through social media; an audience who may be inaccessible via conventionalrecruitment methods. It can be used to reach individuals with particular interests or criteria specific to an opportunity, in addition to targeting demographics, or meeting diversity requirements.
+
+We typically share content across Facebook, Instagram, Twitter, LinkedIn, GDN and Snapchat.
+
+Our SNAP option is a great way of reaching out to a **passive** audience in their social space; individuals who may be open to changing roles, but not actively looking. We can **amplify** your role to a large, **targeted** audience efficiently and cost effectively.
