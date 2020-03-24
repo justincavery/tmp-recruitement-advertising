@@ -1,5 +1,5 @@
 ---
-title: Building Awareness Outside the Nursing Profession
+title: Royal College of Nursing Raising Employer Brand awareness
 subtitle: ''
 date: 2020-03-04T17:21:13.706Z
 thumb_img_path: /images/the-rebels.jpg
