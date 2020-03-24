@@ -1,5 +1,5 @@
 ---
-title: University of Reading — Senior Web Developer via social media
+title: University of Reading Senior Web Developer
 subtitle: >-
   University of Reading have limited presence within the tech recruitment market
   as an employer and have traditionally advertised through job boards.
