@@ -1,8 +1,8 @@
 ---
-title: The Government of Jersey Case Study
+title: Government of Jersey Children’s Social Workers
 date: 2020-03-05T15:50:31.552Z
-thumb_img_path: /images/jersey-results.png
-img_path: /images/jersey-results.png
+thumb_img_path: /images/government-of-jersey.jpg
+img_path: /images/government-of-jersey.jpg
 excerpt: >-
   The campaign captured wide-ranging attention. There was lots of local press
   coverage and the Minister appeared on television to discuss the campaign.
