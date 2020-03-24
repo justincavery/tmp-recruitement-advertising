@@ -1,11 +1,11 @@
 ---
-title: St Georges NHS — hired 54 nurses
+title: St George’s University Hospitals NHS Nursing Open Day resulting in 54 offers
 subtitle: >-
   Using a mix of online and traditional media, we met demanding turn around
   times and recruited 54 nurses.
 date: 2020-02-18T13:37:20.316Z
-thumb_img_path: /images/Screenshot 2020-02-18 at 13.38.04.png
-img_path: /images/Screenshot 2020-02-18 at 13.38.04.png
+thumb_img_path: /images/st-georges-hospital.jpg
+img_path: /images/st-georges-hospital.jpg
 excerpt: >-
   Using a mix of online and traditional media, we met demanding turn around
   times and recruited 54 nurses.
