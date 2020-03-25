@@ -1,5 +1,5 @@
 ---
-title: Using Social Media to Attract Early Career Academics on a Global Scale
+title: University of Manchester Recruiting Academics with Social Media
 date: 2020-03-04T16:00:45.583Z
 thumb_img_path: /images/university-of-manchester-social-campaign.png
 img_path: /images/university-of-manchester-social-campaign.png
